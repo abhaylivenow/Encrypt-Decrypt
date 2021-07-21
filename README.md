@@ -1,3 +1,5 @@
+Encrypt-Decrypt
+
 Ent-To-End encrpyt your data using Encrypt-Decrypt library
 
 Step 1. Add the JitPack repository to your build file
